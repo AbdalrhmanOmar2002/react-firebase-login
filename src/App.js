@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Signup from "./components/Signup";
 import { Login } from "./components/Login";
 import User from "./components/User";
-console.log("00")
+
 const App = () => {
   return (
     <BrowserRouter>
